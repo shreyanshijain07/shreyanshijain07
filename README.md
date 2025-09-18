@@ -1,9 +1,6 @@
-## Hi👋 Shreyanshi Jain
-
-
-**shreyanshijain07/shreyanshijain07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Shreyanshi Jain</h1>
+<h3 align="center">💻 B.Tech CSE Student | Full Stack Developer | Problem Solver</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasnihjain07&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshijain07" /> </p>
 
 
 - 🌱 Currently learning Full Stack Development
